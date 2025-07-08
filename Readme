@@ -1,1 +1,4 @@
-Techsophy Project 
+Automated Infrastructure Cost Optimization Tool
+
+This project analyzes cloud resource usage patterns and intelligently identifies opportunities to reduce costs using both AI/ML models and rule-based optimization logic.
+It helps cloud users or infrastructure teams monitor usage, detect cost anomalies, and generate actionable savings recommendations.
